@@ -37522,7 +37522,7 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile"
+    "customurlscheme": "moodlemobile",
     "siteurl" : "http://courses.airlearn.org"
 }
 );
